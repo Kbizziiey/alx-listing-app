@@ -1,5 +1,17 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+# ALX Listing App
+
+A modern listing application built with **Next.js**, **TypeScript**, **TailwindCSS**, and **ESLint**.
+
+## ✨ Features
+
+- Fully responsive UI
+- Type-safe components
+- Modular and clean folder structure
+- Reusable UI components
+
+
 ## Getting Started
 
 First, run the development server:
